@@ -1,0 +1,6 @@
+.env
+*.png
+*.csv
+chromedriver
+*.zip
+*.log
